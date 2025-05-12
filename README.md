@@ -13,7 +13,7 @@ improve my skills in **Python, Machine Learning, Pygame, Tkinter*, and **AI-base
 ---
 
 ## 📂 My Recent Projects:
-    Python mini Projects.
+### 🐍 Python Mini Projects (Core Python):
 - 🎮 Snake Game (Pygame)
 - ✅ Calculator, Notepad,Digitalclock (Tkinter)
 - 📊 Data Analysis Projects (Pandas, Matplotlib)
