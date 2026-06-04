@@ -83,7 +83,8 @@ Passionate about building intelligent applications using Machine Learning, Large
 ## 📫 Connect With Me
 
 * Email: sajadali.tech@gmail.com
-* LinkedIn: linkedin.com/in/sajad-ali-a3074b352
+* LinkedIn: https://linkedin.com/in/sajad-ali-a3074b352
+* Github: https://github.com/SajadaliAI
 
 ---
 
