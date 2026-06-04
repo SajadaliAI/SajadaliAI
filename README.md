@@ -87,6 +87,7 @@ Passionate about building intelligent applications using Machine Learning, Large
 * Email: sajadali.tech@gmail.com
 * LinkedIn: https://linkedin.com/in/sajad-ali-a3074b352
 * Github: https://github.com/SajadaliAI
+* Fiverr: https://www.fiverr.com/sajad_tech
 
 ---
 🚀 Open to AI/ML Internships & Freelance Projects
