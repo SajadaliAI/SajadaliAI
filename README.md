@@ -89,5 +89,6 @@ Passionate about building intelligent applications using Machine Learning, Large
 * Github: https://github.com/SajadaliAI
 
 ---
+🚀 Open to AI/ML Internships & Freelance Projects
 
 ⭐ Always learning, building, and exploring the future of Artificial Intelligence.
