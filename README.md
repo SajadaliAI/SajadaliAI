@@ -45,6 +45,8 @@ Passionate about building intelligent applications using Machine Learning, Large
 
 ### Frameworks & Tools
 
+* FastAPI
+* FLASK
 * Streamlit
 * Google Colab
 * Jupyter Notebook
