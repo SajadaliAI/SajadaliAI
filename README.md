@@ -33,7 +33,12 @@ Passionate about building intelligent applications using Machine Learning, Large
 * Scikit-Learn
 * Pandas
 * NumPy
+* Seaborn
 * Matplotlib
+* EDA
+* Tensorflow
+* Pytorch
+  
 
 ### Generative AI
 
