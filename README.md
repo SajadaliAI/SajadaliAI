@@ -1,35 +1,83 @@
-# 👋 Hi there, I'm Sajad Ali!
+# Hi, I'm Sajad Ali 👋
 
-🎯 **Python Developer | AI Enthusiast | Data Science Learner**
+### AI Engineer & Generative AI Developer
 
-Welcome to my GitHub profile! I love building small but meaningful projects to practice and *.
-improve my skills in **Python, Machine Learning, Pygame, Tkinter*, and **AI-based applications*.
----
-
-## 🔥 My Focus Areas:
-- 🤖 **AI, Deep Learning & OpenCV**
-- 🛠️ **Mini Projects for Learning**
+Passionate about building intelligent applications using Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Automation.
 
 ---
 
-## 📂 My Recent Projects:
-- Python Mini Projects (Core Python):
-- 🎮 Snake Game (Pygame)
-- ✅ Calculator, Notepad,Digitalclock (Tkinter)
-- 📊 Data Analysis Projects (Pandas, Matplotlib)
-- 🏡 House Price Prediction (ML Project)
-- 🌾 Crop Recommendation System (AI Project)
-- 🩺 **Breast Cancer Prediction (Classification Model)**
-- - 📈 **Students Marks Prediction (Linear Regression)**
----
+## 🚀 About Me
 
-## 🚀 Connect with me:
-- 💻 [GitHub](https://github.com/SajadaliAI)
-- - 🌐 Portfolio (Coming Soon)
-- 📧 Email: (sajadali.tech@gmail.com)
+* 🤖 AI & Generative AI Enthusiast
+* 🐍 Python Developer
+* 🧠 Building Machine Learning, Deep Learning and NLP Projects
+* 🔗 Working with LangChain, RAG, Vector Databases, and Ollama
+* 🌱 Exploring Agentic AI, LangGraph, and AI Automation
+* 📚 Continuously learning and building real-world AI applications
 
 ---
 
-⭐ **Thanks for visiting! Don't forget to star my repositories if you like them.**  
-Let's learn & build together! 🚀
+## 🛠️ Tech Stack
 
+### Programming Languages
+
+* Python
+* SQL
+  
+
+### AI & Machine Learning
+
+* Machine Learning
+* Deep Learning
+* Natural Language Processing
+* Scikit-Learn
+* Pandas
+* NumPy
+* Matplotlib
+
+### Generative AI
+
+* LangChain
+* Ollama
+* RAG
+* Vector Databases
+* Prompt Engineering
+
+### Frameworks & Tools
+
+* Streamlit
+* Google Colab
+* Jupyter Notebook
+* Git
+* GitHub
+
+---
+
+## 📈 Current Learning
+
+* Agentic AI
+* LangGraph
+* Advanced RAG Architectures
+* AI Automation Workflows
+* Production AI Systems
+
+---
+
+## 🎯 2026 Goals
+
+* Build production-ready AI applications
+* Master Agentic AI Systems
+* Contribute to open-source AI projects
+* Develop end-to-end Generative AI solutions
+* Start freelancing in AI and Automation
+
+---
+
+## 📫 Connect With Me
+
+* Email: sajadali.tech@gmail.com
+* LinkedIn: linkedin.com/in/sajad-ali-a3074b352
+
+---
+
+⭐ Always learning, building, and exploring the future of Artificial Intelligence.
