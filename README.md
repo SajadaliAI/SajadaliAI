@@ -1,6 +1,7 @@
 # Hi, I'm Sajad Ali 👋
 
-### AI Engineer & Generative AI Developer
+### Generative AI Developer | Python Developer | Machine Learning Engineer
+
 
 Passionate about building intelligent applications using Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Automation.
 
