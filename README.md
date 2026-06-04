@@ -47,6 +47,7 @@ Passionate about building intelligent applications using Machine Learning, Large
 * RAG
 * Vector Databases
 * Prompt Engineering
+* Hugging Face
 
 ### Frameworks & Tools
 
