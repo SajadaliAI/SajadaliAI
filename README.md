@@ -16,6 +16,8 @@ I have technical experience and interest in:
 * Retrieval-Augmented Generation (RAG)
 * Prompt Engineering
 * Machine Learning
+* Deep Learning
+* Natural Language Processing
 * API Development
 * AI Automation
 
