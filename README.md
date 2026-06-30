@@ -1,95 +1,81 @@
-# Hi, I'm Sajad Ali 👋
+# Hey! Nice to see you. 👋
 
-### Generative AI Developer | Python Developer | Machine Learning Engineer
+## I'm Sajad 😀
 
+### AI Engineer in Progress | Generative AI Enthusiast | Agentic AI Developer
 
-Passionate about building intelligent applications using Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Automation.
+I am passionate about building AI-powered applications and continuously learning cutting-edge technologies in Artificial Intelligence.
 
----
+I have technical experience and interest in:
 
-## 🚀 About Me
+* Generative AI
+* Agentic AI
+* Large Language Models (LLMs)
+* AI Agents
+* Multi-Agent Systems
+* Retrieval-Augmented Generation (RAG)
+* Prompt Engineering
+* Machine Learning
+* API Development
+* AI Automation
 
-* 🤖 AI & Generative AI Enthusiast
-* 🐍 Python Developer
-* 🧠 Building Machine Learning, Deep Learning and NLP Projects
-* 🔗 Working with LangChain, RAG, Vector Databases, and Ollama
-* 🌱 Exploring Agentic AI, LangGraph, and AI Automation
-* 📚 Continuously learning and building real-world AI applications
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
+## Languages and Tools:
 
 * Python
-* SQL
-  
-
-### AI & Machine Learning
-
-* Machine Learning
-* Deep Learning
-* Natural Language Processing
-* Scikit-Learn
-* Pandas
-* NumPy
-* Seaborn
-* Matplotlib
-* EDA
-* Tensorflow
-* Pytorch
-  
-
-### Generative AI
-
-* LangChain
-* Ollama
-* RAG
-* Vector Databases
-* Prompt Engineering
-* Hugging Face
-
-### Frameworks & Tools
-
 * FastAPI
-* FLASK
 * Streamlit
-* Google Colab
-* Jupyter Notebook
+* LangChain
+* LangGraph
+* Gemini API
+* OpenAI API
+* Groq API
 * Git
 * GitHub
+* SQL
+* VS Code
 
----
 
-## 📈 Current Learning
+## Currently Learning:
 
-* Agentic AI
-* LangGraph
-* Advanced RAG Architectures
-* AI Automation Workflows
+* MLOps
+* Docker
+* Cloud Deployment
+* Advanced Agent Architectures
 * Production AI Systems
 
----
+## My Projects Focus On:
 
-## 🎯 2026 Goals
+* AI Chatbots
+* Research Agents
+* Resume Analyzers
+* RAG Applications
+* AI Automation Systems
+* Multi-Agent Workflows
+* End-to-End AI Applications
 
-* Build production-ready AI applications
-* Master Agentic AI Systems
-* Contribute to open-source AI projects
-* Develop end-to-end Generative AI solutions
-* Start freelancing in AI and Automation
+## My Hobbies and Interests:
 
----
+* Learning New Technologies
+* Building AI Projects
+* Problem Solving
+* Reading About AI
+* Exploring New Ideas
 
-## 📫 Connect With Me
+## Goals:
+
+* Become a Professional AI Engineer
+* Build Real-World AI Products
+* Contribute to Open Source
+* Work With Global Clients
+* Share Knowledge Through Projects
+
+## You Can Also Find Me On:
 
 * Email: sajadali.tech@gmail.com
 * LinkedIn: https://linkedin.com/in/sajad-ali-a3074b352
 * Github: https://github.com/SajadaliAI
 * Fiverr: https://www.fiverr.com/sajad_tech
 
----
-🚀 Open to AI/ML Internships & Freelance Projects
+### ⚡ Building AI Projects Every Day
 
-⭐ Always learning, building, and exploring the future of Artificial Intelligence.
+### 💡 Learning Today, Building Tomorrow
