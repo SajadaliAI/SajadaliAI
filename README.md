@@ -182,13 +182,13 @@ To become a professional AI Engineer by building scalable AI products, contribut
 💻 **GitHub:** https://github.com/SajadaliAI
 🎯 **Fiverr:** https://www.fiverr.com/sajad_tech
 
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SajadaliAI&show_icons=true&theme=tokyonight" alt="GitHub Stats" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajadaliAI&theme=tokyonight" alt="GitHub Streak" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=SajadaliAI&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajadaliAI&theme=tokyonight" alt="GitHub Streak" />
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajadaliAI&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
@@ -197,7 +197,7 @@ To become a professional AI Engineer by building scalable AI products, contribut
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SajadaliAI&theme=algolia&no-frame=true&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SajadaliAI&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -214,11 +214,8 @@ To become a professional AI Engineer by building scalable AI products, contribut
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/SajadaliAI/SajadaliAI/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+> Note: Snake Animation tab dikhegi jab aap iska GitHub Action setup karenge, filhal graph aur stats perfectly load hone lagenge.
 
----
 
 ## 💡 Quote
 
