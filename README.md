@@ -1,3 +1,26 @@
+<p align="center">
+  <img src="watermarked_img_12349641375884555130.png" alt="Sajad Ali AI Banner" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Generative+AI+Developer;Agentic+AI+Developer;Machine+Learning+Engineer;Building+AI+Applications;LangChain+%7C+LangGraph+%7C+FastAPI;Always+Learning+New+Technologies" alt="Typing SVG">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SajadaliAI"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://linkedin.com/in/sajad-ali-a3074b352"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.fiverr.com/sajad_tech"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr"></a>
+  <a href="mailto:sajadali.tech@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SajadaliAI&style=for-the-badge" alt="Visitor Counter">
+</p>
+
+---
+
 # Hey, I'm Sajad Ali 👋
 
 ## 🚀 Generative AI Developer | Agentic AI Developer | Machine Learning Engineer
@@ -154,27 +177,50 @@ To become a professional AI Engineer by building scalable AI products, contribut
 ## 📫 Connect With Me
 
 📧 **Email:** <sajadali.tech@gmail.com>
-
 💼 **LinkedIn:** https://linkedin.com/in/sajad-ali-a3074b352
-
 💻 **GitHub:** https://github.com/SajadaliAI
-
 🎯 **Fiverr:** https://www.fiverr.com/sajad_tech
 
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SajadaliAI&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SajadaliAI&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SajadaliAI)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SajadaliAI&show_icons=true&theme=tokyonight" alt="GitHub Stats" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajadaliAI&theme=tokyonight" alt="GitHub Streak" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajadaliAI&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-## ⚡ Fun Fact
+## 🏆 GitHub Trophies
 
-> 💡 Learning today, building tomorrow.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SajadaliAI&theme=algolia&no-frame=true&row=1" alt="GitHub Trophies" />
+</p>
 
-I enjoy building AI projects every day, exploring new technologies, and continuously improving my skills in Generative AI and Agentic AI.
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/SajadaliAI">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SajadaliAI&theme=tokyo-night" alt="Contribution Graph" />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/SajadaliAI/SajadaliAI/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 💡 Quote
+
+> "The best way to predict the future is to build it with AI."
+
+⭐ *If you like my work, consider giving a star to my repositories.*
