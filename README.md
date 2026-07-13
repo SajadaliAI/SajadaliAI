@@ -2,48 +2,50 @@
 
 ## I'm Sajad 😀
 
-### AI Engineer in Progress | Generative AI Enthusiast | Agentic AI Developer
+### Generative AI Developer | Agentic AI Developer | Machine Learning Engineer
 
-I am passionate about building AI-powered applications and continuously learning cutting-edge technologies in Artificial Intelligence.
+I am a BS Information Technology student and Generative AI Developer passionate about building AI-powered applications using Large Language Models (LLMs), LangChain, LangGraph, Retrieval-Augmented Generation (RAG), and AI Agents. I enjoy transforming AI concepts into practical, production-ready applications.
 
 I have technical experience and interest in:
+AI & LLMs
 
-* Generative AI
-* Agentic AI
-* Large Language Models (LLMs)
-* AI Agents
-* Multi-Agent Systems
-* Retrieval-Augmented Generation (RAG)
-* Prompt Engineering
-* Machine Learning
-* Deep Learning
-* Natural Language Processing
-* API Development
-* AI Automation
+Generative AI
+Agentic AI
+Large Language Models (LLMs)
+AI Agents
+Multi-Agent Systems
+RAG
+Prompt Engineering
 
-## Languages and Tools:
+Machine Learning
+Deep Learning
+NLP
 
-* Python
-* FastAPI
-* Streamlit
-* LangChain
-* LangGraph
-* Gemini API
-* OpenAI API
-* Groq API
-* Git
-* GitHub
-* SQL
-* VS Code
+Frameworks
+LangChain
+LangGraph
+CrewAI
+FastAPI
+Flask
+Streamlit
 
+APIs
+OpenAI
+Gemini
+Groq
+
+Tools
+Git
+GitHub
+VS Code
+SQL
 
 ## Currently Learning:
-
-* MLOps
-* Docker
-* Cloud Deployment
-* Advanced Agent Architectures
-* Production AI Systems
+Docker
+Cloud Deployment
+LangSmith
+CI/CD
+Kubernetes (Future)
 
 ## My Projects Focus On:
 
@@ -55,21 +57,12 @@ I have technical experience and interest in:
 * Multi-Agent Workflows
 * End-to-End AI Applications
 
-## My Hobbies and Interests:
-
-* Learning New Technologies
-* Building AI Projects
-* Problem Solving
-* Reading About AI
-* Exploring New Ideas
-
 ## Goals:
 
-* Become a Professional AI Engineer
-* Build Real-World AI Products
-* Contribute to Open Source
-* Work With Global Clients
-* Share Knowledge Through Projects
+Junior AI Engineer
+Generative AI Developer
+AI Internships
+Freelance AI Projects
 
 ## You Can Also Find Me On:
 
