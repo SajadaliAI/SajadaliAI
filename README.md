@@ -214,7 +214,7 @@ To become a professional AI Engineer by building scalable AI products, contribut
 
 ## 🐍 Contribution Snake
 
-> Note: Snake Animation tab dikhegi jab aap iska GitHub Action setup karenge, filhal graph aur stats perfectly load hone lagenge.
+
 
 
 ## 💡 Quote
