@@ -1,7 +1,8 @@
-<p align="center">
-  <img src="D:\Downloaded_Files\Sajad_Ali_AgenticAI_Developer.png" alt="Sajad Ali AI Banner" width="100%">
-</p>
 
+  <p align="center">
+  <img src="Sajad_Ali_AgenticAI_Developer.png" alt="Sajad Ali AI Banner" width="100%">
+</p>
+ 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Generative+AI+Developer;Agentic+AI+Developer;Machine+Learning+Engineer;Building+AI+Applications;LangChain+%7C+LangGraph+%7C+FastAPI;Always+Learning+New+Technologies" alt="Typing SVG">
