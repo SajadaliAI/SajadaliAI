@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="watermarked_img_12349641375884555130.png" alt="Sajad Ali AI Banner" width="100%">
+  <img src="D:\Downloaded_Files\Sajad_Ali_AgenticAI_Developer.png" alt="Sajad Ali AI Banner" width="100%">
 </p>
 
 <p align="center">
