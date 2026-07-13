@@ -1,76 +1,180 @@
-# Hey! Nice to see you. 👋
+# Hey, I'm Sajad Ali 👋
 
-## I'm Sajad 😀
+## 🚀 Generative AI Developer | Agentic AI Developer | Machine Learning Engineer
 
-### Generative AI Developer | Agentic AI Developer | Machine Learning Engineer
+I'm a BS Information Technology student passionate about building intelligent AI applications using **Large Language Models (LLMs)**, **AI Agents**, and **Retrieval-Augmented Generation (RAG)**. I enjoy transforming AI ideas into practical, production-ready applications that solve real-world problems.
 
-I am a BS Information Technology student and Generative AI Developer passionate about building AI-powered applications using Large Language Models (LLMs), LangChain, LangGraph, Retrieval-Augmented Generation (RAG), and AI Agents. I enjoy transforming AI concepts into practical, production-ready applications.
+My primary interests include **Generative AI, Agentic AI, Multi-Agent Systems, Machine Learning, and AI Automation.**
 
-I have technical experience and interest in:
-AI & LLMs
+---
 
-Generative AI
-Agentic AI
-Large Language Models (LLMs)
-AI Agents
-Multi-Agent Systems
-RAG
-Prompt Engineering
+## 🛠 Tech Stack
 
-Machine Learning
-Deep Learning
-NLP
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B32C3?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Frameworks
-LangChain
-LangGraph
-CrewAI
-FastAPI
-Flask
-Streamlit
+---
 
-APIs
-OpenAI
-Gemini
-Groq
+## 🧠 AI & Generative AI Skills
 
-Tools
-Git
-GitHub
-VS Code
-SQL
+- Generative AI
+- Agentic AI
+- Large Language Models (LLMs)
+- AI Agents
+- Multi-Agent Systems
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- AI Automation
 
-## Currently Learning:
-Docker
-Cloud Deployment
-LangSmith
-CI/CD
-Kubernetes (Future)
+---
 
-## My Projects Focus On:
+## 🤖 Machine Learning
 
-* AI Chatbots
-* Research Agents
-* Resume Analyzers
-* RAG Applications
-* AI Automation Systems
-* Multi-Agent Workflows
-* End-to-End AI Applications
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Data Analysis
 
-## Goals:
+---
 
-Junior AI Engineer
-Generative AI Developer
-AI Internships
-Freelance AI Projects
+## ⚙️ Frameworks & Libraries
 
-## You Can Also Find Me On:
+- LangChain
+- LangGraph
+- FastAPI
+- Flask
+- Streamlit
+- Transformers (Hugging Face)
+- FAISS
+- ChromaDB
 
-* Email: sajadali.tech@gmail.com
-* LinkedIn: https://linkedin.com/in/sajad-ali-a3074b352
-* Github: https://github.com/SajadaliAI
-* Fiverr: https://www.fiverr.com/sajad_tech
+---
 
-### ⚡ Building AI Projects Every Day
+## 💻 Programming Languages
 
-### 💡 Learning Today, Building Tomorrow
+- Python
+- SQL
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 🔌 APIs & AI Models
+
+- Google Gemini API
+- OpenAI API
+- Groq API
+
+---
+
+## 🛠 Development Tools
+
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Postman
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 RAG AI Document Assistant
+A Retrieval-Augmented Generation chatbot that answers questions from PDF documents using LangChain, FAISS, and Google Gemini.
+
+### 🔍 LangChain Multi-Agent Research System
+A multi-agent research assistant built with LangGraph that performs intelligent web research using multiple AI agents.
+
+### 🎙 Smart AI Voice Assistant
+A voice-enabled AI assistant capable of speech recognition and intelligent responses.
+
+### 📄 AI Resume Analyzer
+An AI-powered resume analysis system that provides intelligent feedback using LLMs.
+
+### 📝 AI MCQs Generator
+Automatically generates multiple-choice questions from educational content using Generative AI.
+
+### 💬 AI Chatbot
+A conversational AI chatbot built using FastAPI/Flask and modern LLMs.
+
+---
+
+## 💼 Internship Experience
+
+- AI Intern — DevSphere
+- Generative AI Intern — Arch Technologies
+- Generative AI Intern — DecodeLabs
+- AI & Data Science Intern — DevelopersHub Corporation
+- AI Intern — Technify
+
+---
+
+## 📚 Currently Learning
+
+- Agentic AI
+- LangGraph Advanced Workflows
+- MLOps
+- Docker
+- Cloud Deployment
+- LangSmith
+- AI Observability
+- Production AI Systems
+
+---
+
+## 🎯 Career Interests
+
+I'm interested in opportunities related to:
+
+- Generative AI
+- Agentic AI
+- AI Engineering
+- Machine Learning Engineering
+- LLM Applications
+- RAG Systems
+- AI Automation
+- Backend AI Development
+
+---
+
+## 🌱 Career Goal
+
+To become a professional AI Engineer by building scalable AI products, contributing to open-source projects, and solving real-world problems with Artificial Intelligence.
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** <sajadali.tech@gmail.com>
+
+💼 **LinkedIn:** https://linkedin.com/in/sajad-ali-a3074b352
+
+💻 **GitHub:** https://github.com/SajadaliAI
+
+🎯 **Fiverr:** https://www.fiverr.com/sajad_tech
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SajadaliAI&show_icons=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SajadaliAI&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SajadaliAI)
+
+---
+
+## ⚡ Fun Fact
+
+> 💡 Learning today, building tomorrow.
+
+I enjoy building AI projects every day, exploring new technologies, and continuously improving my skills in Generative AI and Agentic AI.
