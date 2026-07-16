@@ -1,6 +1,6 @@
 
   <p align="center">
-  <img src="Sajad_Ali_AgenticAI_Developer.png" alt="Sajad Ali AI Banner" width="100%">
+  <img src="Sajad_Ali.png" alt="Sajad Ali AI Banner" width="100%">
 </p>
  
 <p align="center">
