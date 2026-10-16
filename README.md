@@ -1,133 +1,120 @@
 
-  <p align="center">
-  <img src="Sajad_Ali_AI_Engineer (3).png" alt="Sajad Ali AI Banner" width="100%">
-</p>
- 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Generative+AI+Developer;Agentic+AI+Developer;Machine+Learning+Engineer;Building+AI+Applications;LangChain+%7C+LangGraph+%7C+FastAPI;Always+Learning+New+Technologies" alt="Typing SVG">
+  <img src="Sajad_Ali_AI_Engineer%20(3).png" alt="Sajad Ali AI Engineer Banner" width="100%">
+</p>
+
+<h1 align="center">Hi, I'm Sajad Ali 👋</h1>
+
+<h3 align="center">
+  AI Engineer | Python Developer | Generative AI | RAG & AI Agents
+</h3>
+
+<p align="center">
+  Building practical AI applications with Python, LLMs, RAG, and agentic workflows.
+</p>
+
+<p align="center">
+  <a href="https://github.com/SajadaliAI">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/sajad-ali-a3074b352">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://www.fiverr.com/sajad_tech">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr" alt="Fiverr">
+  </a>
+  <a href="mailto:sajadali.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SajadaliAI"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://linkedin.com/in/sajad-ali-a3074b352"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://www.fiverr.com/sajad_tech"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr"></a>
-  <a href="mailto:sajadali.tech@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SajadaliAI&style=for-the-badge" alt="Visitor Counter">
+  <img src="https://komarev.com/ghpvc/?username=SajadaliAI&style=flat-square&color=0EA5E9" alt="Profile views">
 </p>
 
 ---
 
-# Hey, I'm Sajad Ali 👋
+## 👨‍💻 About Me
 
-## 🚀 Generative AI Developer | Agentic AI Developer | Machine Learning Engineer
+I'm a final-year BS Information Technology student at the University of Sindh, Jamshoro, interested in building AI-powered applications and backend systems.
 
-I'm a BS Information Technology student passionate about building intelligent AI applications using **Large Language Models (LLMs)**, **AI Agents**, and **Retrieval-Augmented Generation (RAG)**. I enjoy transforming AI ideas into practical, production-ready applications that solve real-world problems.
+My work and learning focus on:
 
-My primary interests include **Generative AI, Agentic AI, Multi-Agent Systems, Machine Learning, and AI Automation.**
-
----
-
-## 🛠 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-4B32C3?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🧠 AI & Generative AI Skills
-
-- Generative AI
-- Agentic AI
-- Large Language Models (LLMs)
-- AI Agents
-- Multi-Agent Systems
+- Generative AI and Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
-- AI Automation
+- AI agents and multi-agent workflows
+- Python development and REST APIs
+- Machine Learning and NLP
+
+I enjoy turning AI concepts into practical projects and continuously improving my software development skills.
 
 ---
 
-## 🤖 Machine Learning
+## 🛠️ Technical Skills
 
-- Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP)
-- Data Analysis
+**Languages**
+- Python, SQL, JavaScript
 
----
+**AI & Machine Learning**
+- Machine Learning, NLP, LLMs
+- Generative AI, RAG, embeddings
+- Semantic search and AI agents
 
-## ⚙️ Frameworks & Libraries
+**Frameworks & Libraries**
+- LangChain, LangGraph
+- FastAPI, Flask, Streamlit
+- Hugging Face Transformers
+- scikit-learn, Pandas, NumPy
 
-- LangChain
-- LangGraph
-- FastAPI
-- Flask
-- Streamlit
-- Transformers (Hugging Face)
-- FAISS
-- ChromaDB
+**Vector Databases**
+- ChromaDB, FAISS
 
----
+**AI APIs**
+- Google Gemini, Groq, OpenAI
 
-## 💻 Programming Languages
-
-- Python
-- SQL
-- HTML
-- CSS
-- JavaScript
-
----
-
-## 🔌 APIs & AI Models
-
-- Google Gemini API
-- OpenAI API
-- Groq API
-
----
-
-## 🛠 Development Tools
-
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Postman
+**Tools & Databases**
+- Git, GitHub, VS Code, Jupyter Notebook, Postman
+- PostgreSQL, SQLite
+- Docker (learning and practicing)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 RAG AI Document Assistant
-A Retrieval-Augmented Generation chatbot that answers questions from PDF documents using LangChain, FAISS, and Google Gemini.
+### 1. RAG AI Document Assistant
+A document question-answering application that retrieves relevant information from PDF documents and generates responses using an LLM.
 
-### 🔍 LangChain Multi-Agent Research System
-A multi-agent research assistant built with LangGraph that performs intelligent web research using multiple AI agents.
+**Tech:** Python, LangChain, FAISS, Google Gemini
 
-### 🎙 Smart AI Voice Assistant
-A voice-enabled AI assistant capable of speech recognition and intelligent responses.
+[View Repository](https://github.com/SajadaliAI/RAG-AI-Document-Assistant)
 
-### 📄 AI Resume Analyzer
-An AI-powered resume analysis system that provides intelligent feedback using LLMs.
+### 2. LangChain Multi-Agent Research System
+A research assistant designed to support web research using agent-based workflows.
 
-### 📝 AI MCQs Generator
-Automatically generates multiple-choice questions from educational content using Generative AI.
+**Tech:** Python, LangGraph, LangChain
 
-### 💬 AI Chatbot
-A conversational AI chatbot built using FastAPI/Flask and modern LLMs.
+[View Repository](https://github.com/SajadaliAI/LangChain-Multi-Agent-Research-System)
+
+### 3. AI Chatbot — Flask, LangChain & Groq
+A conversational AI application integrating an LLM with a Python-based web backend.
+
+**Tech:** Python, Flask, LangChain, Groq
+
+[View Repository](https://github.com/SajadaliAI/AI-Chatbot-Flask-LangChain-Groq)
+
+### 4. Smart AI Voice Assistant
+A voice-enabled assistant project focused on speech interaction and AI-powered responses.
+
+**Tech:** JavaScript and project-specific dependencies
+
+[View Repository](https://github.com/SajadaliAI/Smart-AI-Voice-Assistant)
+
+### 5. Research AI Agent
+An AI agent project focused on research-oriented tasks.
+
+**Tech:** Python and project-specific dependencies
+
+[View Repository](https://github.com/SajadaliAI/Research-AI-Agent)
 
 ---
 
@@ -137,88 +124,49 @@ A conversational AI chatbot built using FastAPI/Flask and modern LLMs.
 - Generative AI Intern — Arch Technologies
 - Generative AI Intern — DecodeLabs
 - AI & Data Science Intern — DevelopersHub Corporation
-- AI Intern — Technify
+- AI Engineer Intern — Technify
+
+*See my resume for further details about responsibilities and dates.*
+
+---
+
+## 🎓 Education
+
+**BS Information Technology**  
+University of Sindh, Jamshoro  
+Final Year — 8th Semester
 
 ---
 
 ## 📚 Currently Learning
 
-- Agentic AI
-- LangGraph Advanced Workflows
-- MLOps
-- Docker
-- Cloud Deployment
-- LangSmith
-- AI Observability
-- Production AI Systems
+- Advanced LangGraph workflows
+- AI agent design and tool calling
+- MLOps and model deployment
+- Docker and production AI applications
 
 ---
 
-## 🎯 Career Interests
+## 📊 GitHub Statistics
 
-I'm interested in opportunities related to:
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SajadaliAI&show_icons=true&theme=tokyonight" alt="GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajadaliAI&layout=compact&theme=tokyonight" alt="Most used languages">
+</p>
 
-- Generative AI
-- Agentic AI
-- AI Engineering
-- Machine Learning Engineering
-- LLM Applications
-- RAG Systems
-- AI Automation
-- Backend AI Development
-
----
-
-## 🌱 Career Goal
-
-To become a professional AI Engineer by building scalable AI products, contributing to open-source projects, and solving real-world problems with Artificial Intelligence.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajadaliAI&theme=tokyonight" alt="GitHub contribution streak">
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-📧 **Email:** <sajadali.tech@gmail.com>
-💼 **LinkedIn:** https://linkedin.com/in/sajad-ali-a3074b352
-💻 **GitHub:** https://github.com/SajadaliAI
-🎯 **Fiverr:** https://www.fiverr.com/sajad_tech
-
-## 📊 GitHub Statistics
+- **Email:** sajadali.tech@gmail.com
+- **LinkedIn:** https://linkedin.com/in/sajad-ali-a3074b352
+- **GitHub:** https://github.com/SajadaliAI
+- **Fiverr:** https://www.fiverr.com/sajad_tech
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SajadaliAI&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajadaliAI&theme=tokyonight" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajadaliAI&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <i>Learning, building, and improving one project at a time. 🚀</i>
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SajadaliAI&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <a href="https://github.com/SajadaliAI">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SajadaliAI&theme=tokyo-night" alt="Contribution Graph" />
-  </a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-
-
-
-## 💡 Quote
-
-> "The best way to predict the future is to build it with AI."
-
-⭐ *If you like my work, consider giving a star to my repositories.*
