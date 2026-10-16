@@ -98,12 +98,6 @@ An academic project exploring an AI-powered legal assistant for Pakistani legal 
 **Status:** In development. Features and technologies may evolve during implementation.
 
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SajadaliAI&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajadaliAI&layout=compact&hide_border=true&theme=transparent" alt="Most used languages">
-</p>
 ## 🎯 Current Focus
 
 - Building reliable RAG applications.
