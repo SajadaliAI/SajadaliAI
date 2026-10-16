@@ -1,261 +1,126 @@
 
-<div align="center">
+<h1 align="center">Hi, I'm Sajad Ali 👋</h1>
 
-# 📄 RAG AI Document Assistant
+<h3 align="center">AI Engineer | Generative AI | RAG | Agentic AI</h3>
 
-### Chat with Your Documents Using Generative AI
+<p align="center">
+  Building practical AI applications using Python, Large Language Models, RAG, and AI Agents.
+</p>
 
-An AI-powered document question-answering application built with Python, LangChain, Google Gemini, Hugging Face embeddings, and FAISS.
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)](https://www.langchain.com/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-0467DF?style=for-the-badge)](https://github.com/facebookresearch/faiss)
-
-</div>
+<p align="center">
+  <a href="https://github.com/SajadaliAI">
+    <img src="https://img.shields.io/badge/GitHub-SajadaliAI-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/sajad-ali-a3074b352">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
 
 ---
 
-## 📌 Overview
+## 👨‍💻 About Me
 
-The **RAG AI Document Assistant** is a Python-based application that allows users to ask natural-language questions about their documents.
+- 🎓 Final-year BS Information Technology student at the University of Sindh.
+- 🤖 Focused on Generative AI, Large Language Models (LLMs), RAG, and AI Agents.
+- 🐍 Building AI-powered applications with Python and modern AI frameworks.
+- 🔎 Interested in intelligent document processing, multi-agent systems, and AI automation.
+- 🚀 Seeking opportunities as a Junior AI Engineer, Generative AI Engineer, AI/ML Intern, or Python Developer.
+- 📚 Always learning, experimenting, and improving through hands-on projects.
 
-It uses **Retrieval-Augmented Generation (RAG)** to retrieve relevant document content and provide context-based answers using a Large Language Model (LLM).
+## 🛠️ Technical Skills
 
-Instead of relying only on the model's general knowledge, the application uses document retrieval to help generate answers grounded in the uploaded content.
+**Programming**
+- Python, SQL
 
-### 🎯 Problem Statement
+**Generative AI**
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents and Tool Calling
+- LangChain and LangGraph
 
-Finding specific information in long documents can be time-consuming. This project explores how semantic search and generative AI can make document understanding faster and more accessible.
+**Backend Development**
+- FastAPI, Flask, REST APIs
 
-## ✨ Key Features
+**AI and Machine Learning**
+- Scikit-learn, Pandas, NumPy
+- Hugging Face
 
-- 📁 **Document Upload:** Upload supported documents through a web interface.
-- 🔍 **Semantic Search:** Retrieve relevant text using vector embeddings.
-- 🧠 **RAG Pipeline:** Combine document retrieval with LLM-generated responses.
-- 🤖 **LLM Integration:** Use Google Gemini through LangChain.
-- 🗂️ **Vector Search:** Use FAISS to search document embeddings.
-- 💬 **Natural-Language Q&A:** Ask questions about document content.
-- 📚 **Document References:** Display source information where supported by the implementation.
-- 🖥️ **Interactive Interface:** Access the application through Streamlit.
+**Vector Databases**
+- ChromaDB, FAISS
 
-> Supported formats and individual features should match the current implementation. Verify them before publishing this README.
+**LLM Providers and Tools**
+- Google Gemini, Groq, Ollama
+- Git, GitHub
 
-## 🛠️ Tech Stack
+**Databases**
+- SQLite, MySQL
 
-| Technology | Purpose |
-|---|---|
-| Python | Application development |
-| Streamlit | Web interface |
-| LangChain | LLM and retrieval workflow |
-| Google Gemini | Answer generation |
-| Hugging Face | Text embedding models |
-| FAISS | Vector similarity search |
+## 🚀 Featured Projects
 
-## 🏗️ How It Works
+### 1. RAG AI Document Assistant
 
-```text
-          Upload Document
-                 |
-                 v
-        Extract Document Text
-                 |
-                 v
-          Split into Chunks
-                 |
-                 v
-        Generate Embeddings
-                 |
-                 v
-         Store Vectors in FAISS
-                 |
-                 v
-          User Asks a Question
-                 |
-                 v
-       Retrieve Relevant Chunks
-                 |
-                 v
-     Question + Context Sent to LLM
-                 |
-                 v
-          Generate an Answer
-                 |
-                 v
-          Display the Response
-```
+An AI-powered application for asking questions about documents using Retrieval-Augmented Generation.
 
-### RAG Workflow
+**Key technologies:** Python, LangChain, Gemini, FAISS, Hugging Face, Streamlit.
 
-1. **Document ingestion:** Extract text from the uploaded document.
-2. **Text chunking:** Divide the extracted text into smaller sections.
-3. **Embedding generation:** Convert chunks into numerical vector representations.
-4. **Vector indexing:** Store the embeddings in FAISS.
-5. **Retrieval:** Search for chunks relevant to the user's question.
-6. **Answer generation:** Provide the question and retrieved context to the LLM.
-7. **Response display:** Show the generated answer and available source references.
+🔗 [View Repository](https://github.com/SajadaliAI/RAG-AI-Document-Assistant)
 
-## 📂 Project Structure
+### 2. Multi-Agent Research System
 
-The following is a suggested structure. Adjust filenames to match the actual repository.
+A research-focused AI application designed to organize research tasks into multiple stages, such as searching, analyzing, and generating reports.
 
-```text
-RAG-AI-Document-Assistant/
-│
-├── App.py
-├── requirements.txt
-├── .env.example
-├── .gitignore
-├── README.md
-│
-├── src/
-│   ├── document_loader.py
-│   ├── text_splitter.py
-│   ├── embeddings.py
-│   ├── vector_store.py
-│   └── rag_pipeline.py
-│
-├── tests/
-│   └── test_rag_pipeline.py
-│
-└── assets/
-    ├── app_screenshot.png
-    └── architecture.png
-```
+**Key technologies:** Python, LangChain, LLMs, Tavily, Streamlit.
 
-Only add files and folders that actually exist in your project.
+🔗 [Explore My Repositories](https://github.com/SajadaliAI?tab=repositories)
 
-## ⚙️ Installation and Setup
+### 3. Sajad AI Agent
 
-### 1. Clone the Repository
+An AI assistant project focused on agent workflows, retrieval, tool usage, and conversational interactions.
 
-```bash
-git clone https://github.com/SajadaliAI/RAG-AI-Document-Assistant.git
-```
+**Key technologies:** Python, LangGraph, LangChain, FastAPI, ChromaDB.
 
-Navigate into the project directory:
+🔗 [Explore My Repositories](https://github.com/SajadaliAI?tab=repositories)
 
-```bash
-cd RAG-AI-Document-Assistant
-```
+### 4. TripMate AI
 
-### 2. Create a Virtual Environment
+An AI-powered travel planning project designed to coordinate travel-related tasks such as itinerary planning and travel information retrieval.
 
-**Windows:**
+**Key technologies:** Python, LangGraph, FastAPI, Groq, Tavily.
 
-```bash
-python -m venv .venv
-.venv\Scripts\activate
-```
+🔗 [Explore My Repositories](https://github.com/SajadaliAI?tab=repositories)
 
-**Linux / macOS:**
+### 5. Lex-Pak AI
 
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-```
+An academic project exploring an AI-powered legal assistant for Pakistani legal documents, with a focus on document retrieval and accessible legal explanations.
 
-### 3. Install Dependencies
+**Key technologies:** Python, RAG, LLMs, document processing.
 
-```bash
-python -m pip install --upgrade pip
-pip install -r requirements.txt
-```
+**Status:** In development. Features and technologies may evolve during implementation.
 
-### 4. Configure Your API Key
+## 📊 GitHub Statistics
 
-Create a `.env` file in the project root if the application uses environment variables.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SajadaliAI&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajadaliAI&layout=compact&hide_border=true&theme=transparent" alt="Most used languages">
+</p>
 
-Example:
+## 🎯 Current Focus
 
-```env
-GEMINI_API_KEY=your_gemini_api_key_here
-```
+- Building reliable RAG applications.
+- Developing AI agents and multi-agent workflows.
+- Improving Python backend development with FastAPI.
+- Writing cleaner, testable, and maintainable code.
+- Learning evaluation, deployment, and production practices for AI systems.
 
-Use the exact variable name expected by your Python code. If your implementation uses `GOOGLE_API_KEY` instead, configure that name.
+## 🤝 Let's Connect
 
-**Security:** Never upload your real API key or `.env` file to GitHub.
+I'm interested in collaborating on practical AI projects, learning from experienced engineers, and contributing to useful software.
 
-### 5. Run the Application
-
-If the entry point is `App.py`:
-
-```bash
-streamlit run App.py
-```
-
-If your actual entry point is `app.py`, run:
-
-```bash
-streamlit run app.py
-```
-
-Open the local URL displayed in your terminal.
-
-## 💡 How to Use
-
-1. Start the Streamlit application.
-2. Upload a supported document.
-3. Wait for the document-processing and indexing steps to complete.
-4. Enter a question related to the document.
-5. Review the generated response.
-6. Verify the answer against the original document and any available references.
-
-## 🧪 Testing
-
-Before sharing the project with recruiters, verify the following:
-
-- [ ] The application starts successfully.
-- [ ] Supported files upload and process correctly.
-- [ ] Relevant questions retrieve appropriate document content.
-- [ ] Missing API credentials produce a helpful error.
-- [ ] Invalid or empty files are handled safely.
-- [ ] Answers can be checked against the source document.
-- [ ] The project runs in a clean virtual environment.
-- [ ] No API keys or private documents are committed.
-
-If you implement automated tests, document the actual test command and results here.
-
-## ⚠️ Limitations
-
-- AI-generated responses may contain incorrect or incomplete information.
-- Retrieval quality depends on document extraction, chunking, and embedding quality.
-- Scanned PDFs may require OCR.
-- Model API usage may be subject to rate limits and costs.
-- Large documents may require additional processing time and memory.
-- Source references are only reliable when supported by the retrieval and citation implementation.
-
-## 🚀 Future Improvements
-
-Potential improvements include:
-
-- Better PDF parsing and optional OCR.
-- Page-level source citations.
-- Automated RAG evaluation.
-- Improved error handling and logging.
-- Unit and integration tests.
-- Docker-based deployment.
-- Configurable chunk sizes and retrieval settings.
-- Support for additional document formats.
-
-These are proposed enhancements, not claims that they are already implemented.
-
-## 👨‍💻 Author
-
-**Sajad Ali**
-
-AI Engineer | Python Developer | Generative AI | RAG & AI Agents
-
-- GitHub: [@SajadaliAI](https://github.com/SajadaliAI)
-- LinkedIn: [Sajad Ali](https://www.linkedin.com/in/sajad-ali-a3074b352)
-- Fiverr: [sajad_tech](https://www.fiverr.com/sajad_tech)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sajad-ali-a3074b352)
+- 🐙 [GitHub](https://github.com/SajadaliAI)
 
 ---
 
-<div align="center">
-
-**Built with Python and Generative AI.**
-
-Feedback and suggestions are welcome!
-
-</div>
+<p align="center">
+  <i>Learning by building. Improving with every project.</i>
+</p>
